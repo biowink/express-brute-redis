@@ -9,7 +9,7 @@ Installation
 ------------
   via npm:
 
-      $ npm install express-brute-redis
+      $ npm install @clue/express-brute-redis
 
 Usage
 -----
